@@ -1,3 +1,3 @@
 left child file local
-left child file addon
+left child file addon ADDLOCAL
 
